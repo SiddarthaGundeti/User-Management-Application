@@ -1,6 +1,6 @@
 # User-Management-Application
 
-A fully-functional CRUD app using the JSONPlaceholder Users API.
+A fully-functional CRUD app using the JSON Placeholder Users API.
 
 ## Features
 
