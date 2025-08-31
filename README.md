@@ -1,7 +1,5 @@
 # User-Management-Application
 
-# User Management App (React + Vite)
-
 A fully-functional CRUD app using the JSONPlaceholder Users API.
 
 ## Features
